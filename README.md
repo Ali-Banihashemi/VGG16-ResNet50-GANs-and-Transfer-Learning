@@ -26,7 +26,7 @@ This was done for the AI course in 2024 at the University of Tehran under the in
 - **Transfer Learning**: See practical examples of transfer learning for different types of datasets.
 
 ## Resources
-To access the used resources such as images and datasets, you can visit this [Google Drive](https://drive.google.com/drive/folders/1V5356PjLqqWwTqUSWedoLJRXS7F-FSet).
+To access the used resources such as images and datasets, you can visit this [Google Drive](https://drive.google.com/drive/folders/11gdUw2TMqUHwHGexcXDUz3fp0S1TtglN?usp=drive_link).
 
 Sorry for the lack of references, as I forgot to include them.
 
